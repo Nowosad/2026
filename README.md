@@ -19,6 +19,8 @@ Topics and issues raised in previous editions will be pushed further through ded
 
 The topics you may expect to be part of the discussion include:
 
+**[TODO]** Update topics list?
+
 - File formats and data connectivity
 - Conventions and open standards
 - Spherical geometries and mapping defaults
@@ -68,7 +70,7 @@ The address is:
 
 ## Local committee
 
-- Melanie Weynants
+- Mélanie Weynants
 - Felix Cremer
 - Fabian Gans
 
@@ -77,7 +79,7 @@ In case of any queries, please contact Fabian ([fabian.gans@bgc-jena.mpg.de](mai
 ## Registration
 
 Please register for on-site and online participants using this form:
-[TODO]
+**[TODO]** [Please check the LimeSurvey, e.g. topics](https://survey.academiccloud.de/f/198284?newtest=Y&lang=en)
 Note that the number of on-site participants is limited. The programme committee will select the final list of on-site participants by mid of July.
 
 ### Online Attendance
