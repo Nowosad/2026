@@ -4,7 +4,7 @@ __16-17 (+18) September, 2026, Jena, Germany__
 
 <center>
 <a href="https://www.r-project.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width=170></a>
-<a href="https://www.python.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png" width=150></a>
+<a href="https://www.python.org/" style="margin-right: 100px;"><img src="https://commons.wikimedia.org/wiki/File:Python_logo_(icon_only).svg>" width=150></a>
 <a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png" width=170></a>
 </center>
 
@@ -132,7 +132,7 @@ Plus a "Dev Day" on Friday 18th, optional and open for whoever wants to join and
 
 <center>
 <a href="https://numfocus.org/"><img src="figs/numfocus.png" width=320></a><br><br>
-<a href="https://bgc-jena.mpg.de"><img src="figs/zgis.png" width=180></a>
+<a href="https://bgc-jena.mpg.de"><img src="figs/bgc_logo.png" width=180></a>
 Should we add NFDI4Earth?
 </center>
 
