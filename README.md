@@ -62,11 +62,8 @@ The address is:
 
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
-- [Anita Graser](https://anitagraser.com/)
-- [Jakub Nowosad](https://jakubnowosad.com)
 - [Maarten Pronk](https://www.deltares.nl/en/expertise/our-people/maarten-pronk)
-- [Geoff Boeing](https://geoffboeing.com/)
-- [Lorena Abad](https://loreabad6.github.io/)
+- ...
 
 ## Local committee
 
