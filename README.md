@@ -26,10 +26,9 @@ The topics you may expect to be part of the discussion include:
 - Spherical geometries
 - Discrete Global Grid Systems (DGGS)
 - Web mapping, visualisation and image pyramids
-- Big data handling and analysis including
-    - EO and STAC catalogs
-    - cloud-optimized data formats
-    - distributed data processing
+- Big data handling and access including EO and STAC catalogs
+- Cloud-optimized data formats
+- Distributed data processing
 - Spatial statistics and ML
 - Interoperability between packages and languages
 - Learning resources and teaching methods
