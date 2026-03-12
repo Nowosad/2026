@@ -40,7 +40,7 @@ The goal of the workshop is to attract a maximum of 30 on-site attendees.
 
 ## Venue
 
-The workshop will be held Sept 16 & 17, 2026, at the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/).
+The workshop will be held on 16 & 17 September 2026, at the [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/).
 
 The address is:
 
@@ -50,7 +50,8 @@ The address is:
 
 [OpenStreetMap](https://www.openstreetmap.org/way/951671578)
 
-There will be a Hackthon at Sept. 18 2026 at the main building of the Max Planck Institute.
+There will be a Hackthon on 18 September 2026 at the main building of the Max Planck Institute.
+
 The address is:
 
 > Hans-Knöll-Straße 10a
@@ -80,13 +81,12 @@ In case of any queries, please contact Fabian ([fabian.gans@bgc-jena.mpg.de](mai
 
 ## Registration
 
-Please register for on-site and online participants using this form:
-**[TODO]** [Please check the LimeSurvey, e.g. topics](https://survey.academiccloud.de/f/198284?newtest=Y&lang=en)
-Note that the number of on-site participants is limited. The programme committee will select the final list of on-site participants by mid of July.
+Please register for on-site or online participation using [this form](https://survey.academiccloud.de/f/861612?lang=en). 
+Note that the number of on-site participants is limited. The programme committee will select the final list of on-site participants by end of July 2026.
 
 ### Online Attendance
 
-Online attendance will be possible.
+Online attendance to the main workshop will be possible.
 <!-- Online participation is free of charge. If you plan to join the symposium online, please indicate that in the registration form. -->
 
 ## Discord
@@ -107,7 +107,7 @@ Day 2: 9:00 - 17:00 CET
 
 ### Friday 18th
 
-Dev Day open for whoever wants to join and work on projects that arise during the workshop.
+On-site Dev Day open for whoever wants to join and work on projects that arise during the workshop.
 
 ## Supported by
 
