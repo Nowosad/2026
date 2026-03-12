@@ -19,18 +19,20 @@ Topics and issues raised in previous editions will be pushed further through ded
 
 The topics you may expect to be part of the discussion include:
 
-**[TODO]** Update topics list?
+## Topic list
 
 - File formats and data connectivity
 - Conventions and open standards
 - Spherical geometries and mapping defaults
-- Web mapping and visualisation
-- Big data handling and analysis (movement, EO, etc.)
-- Spatial network analysis
+- Web mapping, visualisation and image pyramids
+- Big data handling and analysis including
+    - EO and STAC catalogs
+    - cloud-optimized data formats
+    - distributed data processing
 - Spatial statistics and ML
 - Interoperability between packages and languages
 - Learning resources and teaching methods
-- Communities and governance models
+- Communities, governance and funding models
 
 However, the list is not exhaustive or fixed.
 
@@ -58,18 +60,21 @@ The address is:
 [OpenStreetMap](https://www.openstreetmap.org/way/233210585)
 
 
-## Program Committee [TODO]
+## Program Committee
 
+- [Fabian Gans](https://bgc-jena.mpg.de/person/fgans)
+- [Felix Cremer](https://bgc-jena.mpg.de/person/fcremer)
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
 - [Maarten Pronk](https://www.deltares.nl/en/expertise/our-people/maarten-pronk)
-- ...
+- [Yomna Eid](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/413/Yomna_Eid)
 
 ## Local committee
 
 - Mélanie Weynants
 - Felix Cremer
 - Fabian Gans
+- Markus Zehner
 
 In case of any queries, please contact Fabian ([fabian.gans@bgc-jena.mpg.de](mailto:fabian.gans@bgc-jena.mpg.de)).
 
@@ -84,8 +89,7 @@ Note that the number of on-site participants is limited. The programme committee
 Online attendance will be possible.
 <!-- Online participation is free of charge. If you plan to join the symposium online, please indicate that in the registration form. -->
 
-## Discord [TODO]
-> Could we change that?
+## Discord
 
 SDSL has a Discord server that will be used for communication during the workshop. Please join via [https://discord.gg/HJRKEJsmrr](https://discord.gg/HJRKEJsmrr).
 
@@ -95,43 +99,20 @@ The topic selection is preliminary and will be changed accordingly.
 
 ### Wednesday 16th
 
-| start | end   | topic                                                    |
-| ----- | ----- | -------------------------------------------------------- |
-| 09:00 | 09:30 | Introduction, Setting the Scene, Lorena                  |
-| 09:30 | 10:30 | Consequences and challenges of LLMs in SDS               |
-| 10:30 | 11:00 | Coffee break                                             |
-| 11:00 | 12:00 | Geometry engines (GEOS, S2, GeometryOps.jl, GeoArrow-rs) |
-| 12:00 | 13:00 | Lunch                                                    |
-| 13:00 | 14:00 | Data structures                                          |
-| 14:00 | 15:00 | Big data handling and analysis                           |
-| 15:00 | 15:30 | Coffee break                                             |
-| 15:30 | 16:30 | Cross-language projects                                  |
-| 16:30 | 17:00 | Wrap-up day 1                                            |
-| 17:00 | 19:00 | Free time until Dinner                                   |
-| 19:00 | 🍻🎉  | Dinner                                                   |
+Day 1: 9:00 - 17:00 CET
 
 ### Thursday 17th
 
-| start | end   | topic                                                |
-| ----- | ----- | ---------------------------------------------------- |
-| 09:00 | 09:30 | Recap                                                |
-| 09:30 | 10:30 | Spatial network analysis                             |
-| 10:30 | 11:00 | Coffee break                                         |
-| 11:00 | 12:00 | Spatial statistics and ML                            |
-| 12:00 | 13:00 | Lunch                                                |
-| 13:00 | 14:00 | Interfacing with desktop and browser                 |
-| 14:00 | 15:00 | File formats, data connectivity and interoperability |
-| 15:00 | 15:30 | Coffee break                                         |
-| 15:30 | 16:30 | Web mapping and visualisation                        |
-| 16:30 | 17:00 | Wrap-up day                                          |
+Day 2: 9:00 - 17:00 CET
 
-Plus a "Dev Day" on Friday 18th, optional and open for whoever wants to join and work on projects that arise during the workshop.
+### Friday 18th
 
-## Supported by [TODO]
+Dev Day open for whoever wants to join and work on projects that arise during the workshop.
+
+## Supported by
 
 <center>
-<a href="https://numfocus.org/"><img src="figs/numfocus.png" width=320></a><br><br>
 <a href="https://bgc-jena.mpg.de"><img src="figs/bgc_logo.png" width=180></a>
-Should we add NFDI4Earth?
+NFDI4Earth
 </center>
 
