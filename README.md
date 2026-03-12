@@ -3,9 +3,9 @@
 __16-17 (+18) September, 2026, Jena, Germany__
 
 <center>
-<a href="https://www.r-project.org/" style="margin-right: 100px;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width=170></a>
-<a href="https://www.python.org/" style="margin-right: 100px;"><img src="https://commons.wikimedia.org/wiki/File:Python_logo_(icon_only).svg>" width=150></a>
-<a href="https://julialang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/512px-Julia_Programming_Language_Logo.svg.png" width=170></a>
+<a href="https://www.r-project.org/" style="margin-right: 100px;"><img src="figs/R_logo.svg" width=170></a>
+<a href="https://www.python.org/" style="margin-right: 100px;"><img src="figs/Python_logo.svg" width=150></a>
+<a href="https://julialang.org/"><img src="figs/Julia_prog_language.svg" width=170></a>
 </center>
 
 ## Goals
@@ -113,6 +113,6 @@ Dev Day open for whoever wants to join and work on projects that arise during th
 
 <center>
 <a href="https://bgc-jena.mpg.de"><img src="figs/bgc_logo.png" width=180></a>
-NFDI4Earth
+<a href="https://nfdi4earth.de"><img src="figs/NFDI4Earth_logo.png" width=180></a>
 </center>
 
