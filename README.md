@@ -23,7 +23,8 @@ The topics you may expect to be part of the discussion include:
 
 - File formats and data connectivity
 - Conventions and open standards
-- Spherical geometries and mapping defaults
+- Spherical geometries
+- Discrete Global Grid Systems (DGGS)
 - Web mapping, visualisation and image pyramids
 - Big data handling and analysis including
     - EO and STAC catalogs
