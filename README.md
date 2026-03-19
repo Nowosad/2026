@@ -14,7 +14,7 @@ Spatial data science tools are not limited to a single programming language, wit
 The SDSL workshop provides a space to bridge the communities and establish cross-language interaction between developers and users.
 SDSL seeks to advance this field by bringing together the communities from the common and emerging programming languages used for data science to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.
 
-The previous installments [2023](https://r-spatial.org/sdsl/), [2024](https://spatial-data-science.github.io/2024/) and [2025](https://spatial-data-science.github.io/2025/) of the workshop identified several paths for common work and the fourth edition plans to follow-up on these efforts as well as open the discussion on topics that have not been addressed so far.
+The previous installments [2023](https://r-spatial.org/sdsl/), [2024](https://spatial-data-science.github.io/2024/) and [2025](https://spatial-data-science.github.io/2025/) of the workshop identified several paths for common work. Challenges and recommendations from the first two workshops were published [here](https://josis.org/index.php/josis/article/view/462). The fourth edition of SDSL plans to follow-up on earlier efforts as well as open the discussion on topics that have not been addressed so far.
 Topics and issues raised in previous editions will be pushed further through dedicated hackathons.
 
 The topics you may expect to be part of the discussion include:
