@@ -65,6 +65,7 @@ The address is:
 
 - [Fabian Gans](https://bgc-jena.mpg.de/person/fgans)
 - [Felix Cremer](https://bgc-jena.mpg.de/person/fcremer)
+- [Anita Graser](https://publications.ait.ac.at/en/persons/anita.graser)
 - [Martin Fleischmann](https://martinfleischmann.net/)
 - [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
 - [Maarten Pronk](https://www.deltares.nl/en/expertise/our-people/maarten-pronk)
