@@ -82,7 +82,7 @@ In case of any queries, please contact Fabian ([fabian.gans@bgc-jena.mpg.de](mai
 
 ## Registration
 
-Please register for on-site or online participation using [this form](https://survey.academiccloud.de/f/861612?lang=en). 
+Please register for on-site or online participation using [this form](https://survey.academiccloud.de/f/861612?lang=en) until 31st of May 2026. 
 Note that the number of on-site participants is limited. The programme committee will select the final list of on-site participants by end of July 2026.
 
 ### Online Attendance
