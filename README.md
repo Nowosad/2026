@@ -88,7 +88,7 @@ Note that the number of on-site participants is limited. The programme committee
 ### Online Attendance
 
 Online attendance to the main workshop will be possible.
-<!-- Online participation is free of charge. If you plan to join the symposium online, please indicate that in the registration form. -->
+<!-- If you plan to join the symposium online, please indicate that in the registration form. -->
 
 ## Discord
 
@@ -96,19 +96,42 @@ SDSL has a Discord server that will be used for communication during the worksho
 
 ## Program
 
-The topic selection is preliminary and will be changed accordingly.
+The final topics selection and programming will be settled soon.
 
 ### Wednesday 16th
 
-Day 1: 9:00 - 17:00 CET
+| start | end   | topic                                                                       |
+| ----- | ----- | --------------------------------------------------------------------------- |
+| 08:45 | 09:00 | On-site registration
+| 09:00 | 09:15 | Introduction                                                                |
+| 09:15 | 10:30 | Block 1                                                                     |
+| 10:30 | 11:00 | Coffee break                                                                |
+| 11:00 | 12:00 | Block 2                                                                     |
+| 12:30 | 13:30 | Lunch                                                                       |
+| 13:30 | 15:00 | Block 3                                                                     |
+| 15:00 | 15:30 | Coffee break                                                                |
+| 15:30 | 16:45 | Block 4                                                                     |
+| 16:45 | 17:00 | Wrap-up day 1                                                               |
+| 17:00 | 19:00 | Free time until Dinner                                                      |
+| 19:00 | 23:00 | Dinner at [Papiermühle](https://www.jenaer-bier.de/restaurant/) (self-paid) |
 
 ### Thursday 17th
 
-Day 2: 9:00 - 17:00 CET
+| start | end   | topic                                                |
+| ----- | ----- | ---------------------------------------------------- |
+| 09:00 | 09:15 | Recap                                                |
+| 09:15 | 10:30 | Block 5                                              |
+| 10:30 | 11:00 | Coffee break                                         |
+| 11:00 | 12:30 | Block 6                                              |
+| 12:00 | 13:00 | Lunch                                                |
+| 13:30 | 15:00 | Block 7                                              |
+| 15:00 | 15:30 | Coffee break                                         |
+| 15:30 | 16:45 | Block 8                                              |
+| 16:45 | 17:00 | Wrap-up day 2                                        |
 
 ### Friday 18th
 
-On-site Dev Day open for whoever wants to join and work on projects that arise during the workshop.
+On-site Dev Day open to whoever wants to join and work on projects that arise during the workshop.
 
 ## Supported by
 
