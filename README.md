@@ -100,33 +100,33 @@ The final topics selection and programming will be settled soon.
 
 ### Wednesday 16th
 
-| start | end   | topic                                                  |
-| ----- | ----- | -------------------------------------------------------|
-| 08:45 | 09:00 | On-site registration                                   |
-| 09:00 | 09:15 | Introduction and presentation of the Lorena Abad award |
-| 09:15 |10:30 |   Keynote by the Award                                  |
-| 10:30 | 11:00 | Coffee break                                           |
-| 11:00 | 12:15 |LLM/Agentic Coding                                      |
-| 12:15 | 13:45 | Lunch                                                  |
-| 13:45 | 15:00 | Discrete Global Grid Systems                           |
-| 15:00 | 15:30 | Coffee break                                           |
-| 15:30 | 16:45 | Geo Knowledge Graphs                                   |
-| 16:45 | 17:00 | Wrap-up day 1                                          |
-| 17:00 | 19:00 | Free time until Dinner                                 |
+| start | end   | topic                                                     |
+| ----- | ----- | ----------------------------------------------------------|
+| 08:45 | 09:00 | On-site registration                                      |
+| 09:00 | 09:15 | Introduction and presentation of the Lorena Abad award    |
+| 09:15 |10:30 |   Keynote by the Award                                     |
+| 10:30 | 11:00 | Coffee break                                              |
+| 11:00 | 12:15 |LLM/Agentic Coding  (Maarten Pronk)                        |
+| 12:15 | 13:45 | Lunch                                                     |
+| 13:45 | 15:00 | Discrete Global Grid Systems (Benoit Bovy, Anshul Singhvi)|
+| 15:00 | 15:30 | Coffee break                                              |
+| 15:30 | 16:45 | Geo Knowledge Graphs (Anita Glaser, Edzer Pebesma)        |
+| 16:45 | 17:00 | Wrap-up day 1                                             |
+| 17:00 | 19:00 | Free time until Dinner                                    |
 | 19:00 | 23:00 | Dinner at [Papiermühle](https://www.jenaer-bier.de/restaurant/) |
 
 ### Thursday 17th
 
-| start | end   | topic                                                |
-| ----- | ----- | ---------------------------------------------------- |
-| 09:00 | 09:15 | Recap                                                |
-| 09:15 | 10:30 | Cloud Ready Data Formats                             |
-| 10:30 | 11:00 | Coffee break                                         |
-| 11:00 | 12:15 | Large Data Processing                                |
-| 12:15 | 13:45 | Lunch                                                |
-| 13:45 | 15:00 | User Community, Teaching and Outreach                |
-| 15:00 | 15:30 | Coffee break                                         |
-| 15:30 | 16:45 | Correctness on the Sphere, Extensive vs Intensive ...    |
+| start | end   | topic                                                     |
+| ----- | ----- | ----------------------------------------------------------|
+| 09:00 | 09:15 | Recap                                                     |
+| 09:15 | 10:30 | Cloud Ready Data Formats (Wei Ji Leong, Felix Cremer)     |
+| 10:30 | 11:00 | Coffee break                                              |
+| 11:00 | 12:15 | Large Data Processing (Yu-Feng Ho)                        |
+| 12:15 | 13:45 | Lunch                                                     |
+| 13:45 | 15:00 | User Community, Teaching and Outreach (Claudiu Forgaci)   |
+| 15:00 | 15:30 | Coffee break                                              |
+| 15:30 | 16:45 | Correctness on the Sphere, Extensive vs Intensive ... (Maarten Pronk)     |
 | 16:45 | 17:00 | Wrap-up day 2                                        |
 
 ### Friday 18th
